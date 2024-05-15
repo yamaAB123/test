@@ -1,2 +1,2 @@
 # test
-测试仓库，details
+测试仓库
